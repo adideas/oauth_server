@@ -37,10 +37,6 @@
             "Adideas\\OauthServer\\Tests\\": "tests/"
         }
     },
-    "conflict": {
-        "laravel/passport": ">0.*",
-        "laravel/sanctum": ">0.*"
-    },
     "extra": {
         "laravel": {
             "providers": [
