@@ -10,6 +10,10 @@
             "email": "adideas@mail.ru"
         }
     ],
+    "conflict": {
+        "laravel/passport": ">=0.1.0",
+        "laravel/sanctum": ">=0.1.0"
+    },
     "require": {
         "php": "^7.4|^8.0",
         "ext-json": "*",
